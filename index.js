@@ -128,43 +128,43 @@ const users = [
 console.log(users)
 
 // Nested data practice prompts:
+
 // 1. Access the email of the second user:
-const userEmail = users[1].email
-console.log(userEmail)
+// const userEmail = 
+// console.log(userEmail)
 
 // 2.Access the title of the first hobby of the third user:
-const firstHobbyTitle = users[2].hobbies[0].name
-console.log(firstHobbyTitle)
+// const firstHobbyTitle = 
+// console.log(firstHobbyTitle)
 
 // 3.Access the brand of the second bike owned by the second user:
-const secondBikeBrand = users[1].hobbies[1].bikesOwned[1].brand
-console.log(secondBikeBrand)
+// const secondBikeBrand = 
+// console.log(secondBikeBrand)
 
 // 4. Access the second favorite cuisine of the third hobby of the first user:
-const secondFavoriteCuisine = users[0].hobbies[2].favoriteCuisines[0]
-console.log(secondFavoriteCuisine)
+// const secondFavoriteCuisine = 
+// console.log(secondFavoriteCuisine)
 
 // 5. Access the title of the current project being written by the third user:
-const currentProjectTitle = users[2].hobbies[0].currentProject.title
-console.log(currentProjectTitle)
+// const currentProjectTitle = 
+// console.log(currentProjectTitle)
 
 // 6. Access the estimated completion date of the current project of the second hobby of the third user:
-const currentProjectCompletion =
-    users[2].hobbies[1].currentProject.estimatedCompletion
-console.log(currentProjectCompletion)
+// const currentProjectCompletion = 
+// console.log(currentProjectCompletion)
 
 // 7. Access the artist of the second favorite song of the third hobby of the third user:
-const secondFavoriteSongArtist = users[2].hobbies[2].favoriteSongs[1].artist
-console.log(secondFavoriteSongArtist)
+// const secondFavoriteSongArtist = 
+// console.log(secondFavoriteSongArtist)
 
 // 8. Access the first favorite medium of the first hobby of the second user:
-const firstFavoriteMedium = users[1].hobbies[0].favoriteMediums[0]
-console.log(firstFavoriteMedium)
+// const firstFavoriteMedium = 
+// console.log(firstFavoriteMedium)
 
 // 9. Access the level of the first hobby of the second user:
-const firstHobbyLevel = users[1].hobbies[0].level
-console.log(firstHobbyLevel)
+// const firstHobbyLevel = 
+// console.log(firstHobbyLevel)
 
 // 10. Access the word count of the current project of the first hobby of the third user:
-const currentProjectWordCount = users[2].hobbies[0].currentProject.wordCount
-console.log(currentProjectWordCount)
+// const currentProjectWordCount = 
+// console.log(currentProjectWordCount)
